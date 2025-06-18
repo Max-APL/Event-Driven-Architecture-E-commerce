@@ -1,6 +1,6 @@
 # 🛍️ Event-Driven E-commerce System
 
-Este proyecto implementa una arquitectura de e-commerce basada en microservicios y comunicación orientada a eventos, utilizando RabbitMQ como middleware de mensajería y FastAPI como framework web.
+Este proyecto implementa una arquitectura de e-commerce basada en servicios y comunicación orientada a eventos, utilizando RabbitMQ como middleware de mensajería y FastAPI como framework web.
 
 ---
 
