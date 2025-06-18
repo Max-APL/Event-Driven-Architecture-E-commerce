@@ -1,0 +1,17 @@
+### Crear orden de compra
+POST http://localhost:8000/checkout
+Content-Type: application/json
+
+{
+  "user_id": "U123",
+  "items": [
+    {
+      "product_id": "P1",
+      "quantity": 2
+    },
+    {
+      "product_id": "P2",
+      "quantity": 1
+    }
+  ]
+}
