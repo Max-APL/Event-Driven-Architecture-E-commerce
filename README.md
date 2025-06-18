@@ -4,6 +4,9 @@ Este proyecto implementa una arquitectura de e-commerce basada en microservicios
 
 ---
 
+## 🚀 Arquitectura Orientada a Eventos (Event Driven Architecture)
+![Preview](architecture.png)
+
 ## 🚀 Flujo de la Orden de Compra
 
 ### 📥 Paso a paso:
@@ -33,7 +36,7 @@ El cliente envía una solicitud de orden con `user_id` y productos.
 
 ---
 
-## 🔁 Flujo completo de eventos
+## 🔁 Flujo de eventos
 
 ```
 [POST /checkout]
